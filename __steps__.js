@@ -41,4 +41,8 @@
  * 3.const query = {_id: new object (id)}
  * 4.const result = await userCollection.deleteOne(query)
  * 5.res.send(result)
+ * 
+ * ----------client side--------
+ * 1.create dynamic url with id
+ * 2.mention the Delete method
  * */ 
